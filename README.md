@@ -1,6 +1,6 @@
 # Tast Cases Of Mahfil-App-https://www.mahfil.net/
 ## **Project Overview:**
-Enjoy the world's first Islamic social media platform with complete halal content to take your Deen to the next level. Here in ##**"Mahfil APP"**, you can watch waz from different renowned speakers, beautiful nasheeds that will soothe your mind, Quran recitation from famous Qari, easy tafsir of the Quran, and hundreds of hadith videos to know more about your Deen- Islam. You can also enjoy live waz of your favorite Islamic scholars, and save and download videos for later. Besides, the daily salat reminder feature will never let you miss your salat.
+Enjoy the world's first Islamic social media platform with complete halal content to take your Deen to the next level. Here in **"Mahfil APP"**, you can watch waz from different renowned speakers, beautiful nasheeds that will soothe your mind, Quran recitation from famous Qari, easy tafsir of the Quran, and hundreds of hadith videos to know more about your Deen- Islam. You can also enjoy live waz of your favorite Islamic scholars, and save and download videos for later. Besides, the daily salat reminder feature will never let you miss your salat.
 ## **Testing Tools:**
 
 Test Case Management: Microsoft Excel (For detailed test case creation and management)
