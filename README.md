@@ -5,7 +5,7 @@ Enjoy the world's first Islamic social media platform with complete halal conten
 
 Test Case Management: Microsoft Excel (For detailed test case creation and management)
 
-The Excel files ("https://github.com/Anik16298/Mahfil-App/blob/5fc64ef180292d8dd2a91be50b80debcf53e9ce8/Mahfil-TestCases-BugReport.xlsx") contains detailed test cases, 
+The Excel files ("Mahfil-TestCases-BugReport.xlsx") contains detailed test cases, 
 
 ## **Including:**
 Test Case ID
