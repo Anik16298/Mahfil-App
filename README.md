@@ -9,16 +9,26 @@ The Excel files ("Mahfil-TestCases-BugReport.xlsx") contains detailed test cases
 
 ## **Including:**
 Test Case ID
+
 Test Scenario 
+
 Test Case Title
+
 Pre-requisites	
+
 Test Steps	
+
 Test Data	Expected Result (ER)	
+
 Actual Result	
+
 Priority		
+
 Result
 
 ## **For Bug Report Also Add:**
 Screenshot
+
 Attention
+
 Responsible QA Name
